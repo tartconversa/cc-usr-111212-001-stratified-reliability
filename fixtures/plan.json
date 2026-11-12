@@ -1,0 +1,38 @@
+{
+  "stratum_weights": {
+    "dry": 0.8,
+    "wet": 0.2
+  },
+  "family_alpha": 0.05,
+  "maximum_failure_rate": 0.1,
+  "checkpoints": [
+    {
+      "key": "look1",
+      "finalized_per_stratum": {
+        "dry": 5,
+        "wet": 1
+      },
+      "alpha": {
+        "dry": 0.01,
+        "wet": 0.01
+      }
+    },
+    {
+      "key": "look2",
+      "finalized_per_stratum": {
+        "dry": 10,
+        "wet": 5
+      },
+      "alpha": {
+        "dry": 0.015,
+        "wet": 0.015
+      }
+    }
+  ],
+  "single_layer_reference": {
+    "n": 10,
+    "failures": 0,
+    "alpha": 0.05
+  },
+  "probability_tolerance": 1e-10
+}

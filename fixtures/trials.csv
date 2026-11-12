@@ -1,0 +1,13 @@
+trial_id,stratum,decision,received_at
+d0,dry,success,2026-11-10T10:00:00+08:00
+d1,dry,success,2026-11-10T10:01:00+08:00
+d2,dry,success,2026-11-10T10:02:00+08:00
+d3,dry,success,2026-11-10T10:03:00+08:00
+d4,dry,success,2026-11-10T10:04:00+08:00
+d5,dry,success,2026-11-10T10:05:00+08:00
+d6,dry,success,2026-11-10T10:06:00+08:00
+d7,dry,success,2026-11-10T10:07:00+08:00
+d8,dry,success,2026-11-10T10:08:00+08:00
+d9,dry,success,2026-11-10T10:09:00+08:00
+w1,wet,failure,2026-11-10T10:10:00+08:00
+w2,wet,pending,2026-11-10T10:11:00+08:00

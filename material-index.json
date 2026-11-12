@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/plan.json",
+    "sha256": "24509bc6318da2abc29f28b31e2785dfe19805b2e66dfc5e2aec6a4d45b2d38e",
+    "size_bytes": 618
+  },
+  {
+    "path": "fixtures/trials.csv",
+    "sha256": "fc7cc47088956bf1d0a3a4ba82ccda8fc6da7723b1a07f5cd1d261ce542e4140",
+    "size_bytes": 530
+  }
+]
